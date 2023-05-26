@@ -1,91 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="BASE.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="17.30396"
-     inkscape:cy="74.180165"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1932"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#3399ff;fill-opacity:1;stroke:none;display:inline"
-     d="M 52.806652,23.463233 7.9990101,64.016805 52.806652,104.36591 l 67.211458,0 0,-80.902677 -67.211458,0 z M 64.28083,38.227973 79.916827,53.665958 95.552827,38.227973 106.05462,48.596775 90.418619,64.034782 106.05462,79.472788 95.552827,89.841596 79.916827,74.403585 64.28083,89.841596 53.77904,79.472788 69.415037,64.034782 53.77904,48.596775 64.28083,38.227973 z"
-     id="path3870"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
+      .cls-2 {
+        fill: aqua;
+        stroke: #1b0049;
+        stroke-width: 1.64px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #1bffff;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="72.08 88.63 62.97 71.42 118.78 74.81 125.27 57.83 55.52 67.1 56.84 71.24 58.91 77.75 59.56 79.77 59.86 80.73 42.68 70.2 84.23 46.47 26.32 64.03 2.73 71.18 22.33 78.77 65.07 95.3 78.34 100.44 72.08 88.63"/>
+  <line class="cls-3" x1="51.05" y1="89.88" x2="52.6" y2="90.48"/>
+  <path class="cls-1" d="m69.75,54.74l-23.87,13.63c-9.4,14.34-13.42,16.35-22.36,10.12l-1.28,1.75,10.81,8.2c9.69,6.75,13.59,3.83,24.82-13.95l-2.36-7.39,7.56-1.01c.18-.29.35-.58.53-.87l2.03,2.25-2.62,4.03.86,1.62,2.87-4.42,12.79,14.21s7.3-6.73,19.42-3.08,14.75,10.23,11.97,15c-2.77,4.78-12.69,4.78-19.53,0l2.31,5.45s15.24,5,19.94-6.22c3.96-9.45-8.02-22.96-21.53-24.51-6.27-.72-13.69.18-15,1.49l-6.97-7.58,17.24-26.53c1.75.59,3.7,1.87,6.07,3.74l1.03-2.41-10.56-7.54c-10.54-8.34-12.76-4.95-26.51,18.91l-16.22-17.64s-3.85,10.59-15.83,4.88c3.8,6.63,9.2,14.59,19.83,7.91l9.1,10.11c-.16.27-.32.53-.48.79l18.71-5.67c5.87-9.78,9.18-13.77,13.22-13.44l-16.72,25.68-2.23-2.43c1.04-1.81,2.02-3.51,2.94-5.09"/>
+  <polygon class="cls-1" points="59.56 79.77 58.91 77.81 49.17 92.78 50.4 93.86 59.56 79.77"/>
 </svg>

@@ -1,90 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: aqua;
+        stroke-width: .57px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="insert-image.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="138.78738"
-     inkscape:cy="53.473373"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1958"
-     inkscape:window-y="81"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     style="font-size:8.9971447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3399ff;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Abandoned Bitplane Bold"
-     d="m 29.703709,23.942975 c -3.002774,0 -5.434287,2.479416 -5.434287,5.537796 l 0,55.170955 c 0,3.058387 2.431513,5.537799 5.434287,5.537799 l 68.627284,0 c 3.002777,0 5.434297,-2.479411 5.434297,-5.537799 l 0,-55.170955 c 0,-3.05838 -2.43152,-5.537796 -5.434297,-5.537796 l -68.627284,0 z m 52.376179,11.023838 c 3.991305,0 7.245716,3.335767 7.245716,7.400983 0,4.065217 -3.254411,7.349227 -7.245716,7.349227 -3.991304,0 -7.245716,-3.28401 -7.245716,-7.349227 0,-4.065216 3.254412,-7.400983 7.245716,-7.400983 z m -25.308251,14.75021 18.062535,16.561637 5.434286,-5.537798 16.251101,12.887026 0,9.21241 -65.004421,0 0,-16.561638 9.005391,-11.075594 7.245717,5.537796 9.005391,-11.023839 z m -12.62825,50.409487 19.873965,19.87397 19.873965,-19.87397 -39.74793,0 z"
-     id="path3648"
-     inkscape:connector-curvature="0" />
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #1b0049;
+      }
+
+      .cls-5 {
+        filter: url(#outer-glow-20);
+      }
+
+      .cls-2 {
+        stroke-width: .69px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: aqua;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #1b0049;
+      }
+
+      .cls-3 {
+        stroke-width: 1.06px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.54px;
+      }
+    </style>
+    <filter id="outer-glow-20" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5.31"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-5">
+    <polygon class="cls-3" points="96.73 80.5 66.72 111.16 36.71 80.5 66.72 97.8 96.73 80.5"/>
+  </g>
+  <g>
+    <rect class="cls-4" x="18.73" y="1.51" width="95.97" height="72.77" rx="2.64" ry="2.64"/>
+    <g id="draw">
+      <rect class="cls-1" x="24.11" y="5.34" width="85.22" height="65.11" rx="2.64" ry="2.64"/>
+      <path class="cls-2" d="m31.28,56.29c1.4-9.63,9.29-15.23,12.98-23.54.94-2.1,3.97-2.03,4.85.1,2.56,6.16,6.84,13.45,13.08,14.65,1.03.2,2.09-.22,2.69-1.09,2.63-3.77,10.28-15.28,12.71-24.72.53-2.06,3.1-2.74,4.52-1.16,6.18,6.86,17.76,20.75,17.76,28.37v7.76c0,1.46-1.18,2.64-2.64,2.64h-63.34c-1.61,0-2.85-1.43-2.62-3.02Z"/>
+    </g>
+  </g>
 </svg>

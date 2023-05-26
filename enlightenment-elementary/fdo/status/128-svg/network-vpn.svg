@@ -1,75 +1,87 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-idle.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895307"
-     inkscape:cy="51.106043"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <g
-     transform="matrix(7.0477563,0,0,7.0477563,8.0038126,9.2062554)"
-     style="fill:#3399ff"
-     id="g4">
-    <path
-       inkscape:connector-curvature="0"
-       d="M 5.8438,7 A 0.63313,0.63137 0 0 0 5.5625,7.1875 l -2.375,2.375 A 0.63313,0.63137 0 0 0 3,10 v 1.875 l -2.75,2.75 c -0.31442,0.31442 -0.31442,0.81058 0,1.125 0.31442,0.31442 0.81058,0.31442 1.125,0 L 4.125,13 H 6 a 0.63313,0.63137 0 0 0 0.4375,-0.1875 l 2.375,-2.375 a 0.63313,0.63137 0 0 0 0,-0.875 L 6.4375,7.1885 A 0.63313,0.63137 0 0 0 5.8438,7.001 z"
-       id="path6-2"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 10.16,8.9723 a 0.63313,0.63137 0 0 0 0.28125,-0.1875 l 2.375,-2.375 a 0.63313,0.63137 0 0 0 0.1875,-0.4375 v -1.875 l 2.75,-2.75 c 0.31442,-0.31442 0.31442,-0.81058 0,-1.125 -0.31442,-0.31442 -0.81058,-0.31442 -1.125,0 l -2.75,2.75 h -1.875 a 0.63313,0.63137 0 0 0 -0.4375,0.1875 l -2.375,2.375 a 0.63313,0.63137 0 0 0 0,0.875 l 2.375,2.375 a 0.63313,0.63137 0 0 0 0.5935,0.1875 z"
-       id="path8"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 11.625,9 C 11.279,9 10.866,9.3059 11,9.625 V 12 H 10.625 C 10.279,12 10,12.279 10,12.625 v 2.75 C 10,15.721 10.279,16 10.625,16 h 4.75 C 15.721,16 16,15.721 16,15.375 v -2.75 C 16,12.279 15.721,12 15.375,12 H 15 V 9.625 C 15,9.2788 14.721,9 14.375,9 z M 12,10 h 2 v 2 h -2 z"
-       id="path10"
-       style="fill:#3399ff" />
+      .cls-4, .cls-5, .cls-6 {
+        fill: aqua;
+      }
+
+      .cls-4, .cls-2, .cls-7 {
+        stroke-width: 1.12px;
+      }
+
+      .cls-4, .cls-2, .cls-7, .cls-6, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #1b0049;
+      }
+
+      .cls-2, .cls-7, .cls-3 {
+        stroke: aqua;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.57px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <polygon class="cls-1" points="85.57 105.03 106.6 84.79 124.16 103.04 119.17 107.84 120.68 109.41 119.16 110.87 120.8 112.58 112.79 120.29 111.14 118.58 109.62 120.05 108.12 118.48 103.12 123.28 85.57 105.03"/>
+        <path class="cls-5" d="m106.59,85.5l16.86,17.53-4.99,4.8,1.51,1.57-1.52,1.46,1.64,1.71-7.3,7.02-1.64-1.71-1.52,1.46-1.51-1.57-4.99,4.8-16.86-17.53,20.32-19.55m.03-1.41l-.72.69-20.32,19.55-.72.69.69.72,16.86,17.53.69.72.72-.69,4.27-4.11.82.85.69.72.72-.69.8-.77.95.99.69.72.72-.69,7.3-7.02.72-.69-.69-.72-.95-.99.8-.77.72-.69-.69-.72-.82-.85,4.27-4.11.72-.69-.69-.72-16.86-17.53-.69-.72h0Z"/>
+      </g>
+      <g>
+        <line class="cls-7" x1="99.65" y1="105.96" x2="93.78" y2="99.85"/>
+        <line class="cls-7" x1="108.46" y1="97.49" x2="102.58" y2="91.38"/>
+        <line class="cls-7" x1="109.92" y1="96.08" x2="104.04" y2="89.97"/>
+        <line class="cls-7" x1="102.59" y1="103.14" x2="96.71" y2="97.03"/>
+        <line class="cls-7" x1="105.52" y1="100.32" x2="99.64" y2="94.21"/>
+        <line class="cls-7" x1="96.72" y1="108.78" x2="90.84" y2="102.67"/>
+        <line class="cls-7" x1="104.06" y1="101.73" x2="98.18" y2="95.62"/>
+        <line class="cls-7" x1="106.99" y1="98.91" x2="101.11" y2="92.79"/>
+        <line class="cls-7" x1="98.19" y1="107.37" x2="92.31" y2="101.26"/>
+        <line class="cls-7" x1="101.12" y1="104.55" x2="95.24" y2="98.44"/>
+      </g>
+    </g>
+    <g id="eth">
+      <rect class="cls-3" x="67.93" y="68.12" width="26.49" height="22.59" transform="translate(-32.38 78.47) rotate(-43.89)"/>
+      <g>
+        <line class="cls-7" x1="83.77" y1="89.45" x2="77.89" y2="83.34"/>
+        <line class="cls-7" x1="92.57" y1="80.99" x2="86.69" y2="74.88"/>
+        <line class="cls-7" x1="94.04" y1="79.57" x2="88.16" y2="73.46"/>
+        <line class="cls-7" x1="86.71" y1="86.63" x2="80.83" y2="80.52"/>
+        <line class="cls-7" x1="89.64" y1="83.81" x2="83.76" y2="77.7"/>
+        <line class="cls-7" x1="80.84" y1="92.28" x2="74.96" y2="86.16"/>
+        <line class="cls-7" x1="88.17" y1="85.22" x2="82.29" y2="79.11"/>
+        <line class="cls-7" x1="91.11" y1="82.4" x2="85.23" y2="76.29"/>
+        <line class="cls-7" x1="82.31" y1="90.86" x2="76.43" y2="84.75"/>
+        <line class="cls-7" x1="85.24" y1="88.04" x2="79.36" y2="81.93"/>
+      </g>
+      <rect class="cls-5" x="68.53" y="74.26" width="18.32" height="3.07" transform="translate(-30.85 75.04) rotate(-43.89)"/>
+      <polygon class="cls-2" points="64.78 80.92 83.31 63.09 83.84 56.1 63.12 34.57 51.36 28.28 44.28 35.1 41.93 32.66 48.9 25.95 46.73 25.31 40.56 31.24 39.03 29.64 45.19 23.71 43.02 23.06 37.66 28.22 36.12 26.62 41.48 21.46 39.31 20.81 34.75 25.2 33.22 23.6 37.77 19.22 35.6 18.57 31.85 22.18 30.31 20.58 34.06 16.97 28.9 13.21 25.95 16.04 .73 -10.17 -5.24 -4.43 19.98 21.78 17.04 24.62 20.6 29.92 24.35 26.32 25.88 27.91 22.13 31.52 22.7 33.72 27.25 29.34 28.79 30.93 24.23 35.32 24.8 37.51 30.16 32.36 31.69 33.95 26.34 39.11 26.9 41.3 33.06 35.38 34.6 36.97 28.44 42.9 29 45.1 35.97 38.4 38.31 40.83 31.23 47.65 37.06 59.65 57.77 81.18 64.78 80.92"/>
+      <rect class="cls-4" x="53.81" y="54.88" width="20.35" height="13.33" transform="translate(-24.8 61.56) rotate(-43.89)"/>
+    </g>
+  </g>
+  <g>
+    <path class="cls-6" d="m89.66,27.86v-7.18c0-10.01,7.1-18.12,15.86-18.12,8.76,0,15.86,8.11,15.86,18.12v10.36s-6.43,0-6.43,0v-10.36c0-5.95-4.22-10.77-9.43-10.77s-9.43,4.82-9.43,10.77v7.18"/>
+    <g>
+      <rect class="cls-1" x="86.15" y="27.48" width="38.75" height="33.68"/>
+      <path class="cls-5" d="m124.52,27.86v32.94h-38V27.86h38m.75-.75h-39.49v34.43h39.49V27.11h0Z"/>
+    </g>
   </g>
 </svg>

@@ -1,91 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .21px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ZZ-BASE.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="66.06226"
-     inkscape:cy="74.589172"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1932"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     style="fill:#3399ff;fill-opacity:1;stroke:none;display:inline"
-     d="m 8.3248815,8.288047 0,13.954951 88.3813605,0 0,-13.954951 z m 0,23.258252 0,13.954952 111.6396085,0 0,-13.954952 z m 0,23.258253 0,13.954951 65.1231085,0 0,-13.954951 z M 26.931485,80.38863 8.3248815,98.995229 26.931485,119.92766 l 0,-13.95496 32.561553,0 0,-13.954946 -32.561553,0 z"
-     id="path3724"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1b0049;
+        stroke: aqua;
+      }
+
+      .cls-2 {
+        fill: aqua;
+        stroke: #1b0049;
+      }
+
+      .cls-3 {
+        stroke-width: .24px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="52.38 110.91 46.82 100.4 80.91 102.47 84.88 92.1 42.26 97.76 43.07 100.29 44.92 106.09 34.42 99.66 59.81 85.16 24.42 95.89 10.01 100.26 21.99 104.89 48.1 114.99 56.21 118.13 52.38 110.91"/>
+  <path class="cls-1" d="m81.86,19.71H11.37c-.75,0-1.36-.83-1.36-1.84v-6.15c0-1.02.61-1.84,1.36-1.84h76.91c1.33,0,1.87,2.31.78,3.35l-6.43,6.15c-.23.22-.5.34-.78.34Z"/>
+  <path class="cls-3" d="m107.43,33.67H11.86c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+  <path class="cls-3" d="m55.24,47.64H11.86c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h52.1c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+  <path class="cls-3" d="m99.33,61.6H11.86c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h96.19c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+  <path class="cls-3" d="m71.86,75.57H11.86c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h68.72c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
 </svg>

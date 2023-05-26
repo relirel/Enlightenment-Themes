@@ -1,92 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-5);
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-cellular-signal-excellent.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140625"
-     inkscape:cx="77.157776"
-     inkscape:cy="70.179879"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="46"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <g
-     transform="matrix(7.5032937,0,0,7.5032937,7.3925701,9.1092267)"
-     style="fill:#3399ff"
-     id="g4-9">
-    <rect
-       style="opacity:0.45000000000000001;fill:#3399ff"
-       rx="1"
-       height="13"
-       width="3"
-       y="1"
-       x="12"
-       id="rect6-0" />
-    <rect
-       rx="1"
-       height="10"
-       width="3"
-       y="4"
-       x="8"
-       id="rect8-0"
-       style="fill:#3399ff" />
-    <rect
-       rx="1"
-       height="7"
-       width="3"
-       y="7"
-       x="4"
-       id="rect10-2"
-       style="fill:#3399ff" />
-    <rect
-       rx="1"
-       height="4"
-       width="3"
-       y="10"
-       x="0"
-       id="rect12-1"
-       style="fill:#3399ff" />
-  </g>
+      .cls-1, .cls-2, .cls-3 {
+        fill: aqua;
+      }
+
+      .cls-4 {
+        fill: #1b0049;
+      }
+
+      .cls-2 {
+        filter: url(#outer-glow-3);
+      }
+
+      .cls-3 {
+        filter: url(#outer-glow-4);
+      }
+    </style>
+    <filter id="outer-glow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <polygon class="cls-2" points="5.3 89.9 26.56 89.9 33.34 65.77 17.42 60.65 5.3 89.9"/>
+  <polygon class="cls-3" points="37.58 89.9 58.75 89.9 62.34 44.06 48.04 40.42 37.58 89.9"/>
+  <polygon class="cls-1" points="70.18 40.35 69.72 89.9 90.79 89.9 84.68 40.3 83.21 28.44 70.31 25.71 70.18 40.35"/>
+  <polygon class="cls-4" points="87.24 14.52 92.18 40.27 101.72 89.9 122.7 89.9 106.6 40.23 98.96 16.65 87.24 14.52"/>
 </svg>

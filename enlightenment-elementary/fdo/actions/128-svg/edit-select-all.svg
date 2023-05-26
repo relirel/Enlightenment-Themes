@@ -1,90 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 10.84 10.84;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ZZ-BASE.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="66.06226"
-     inkscape:cy="74.589172"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1932"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     style="color:#000000;fill:#3399ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 26.27908,8.3083518 c -5.468452,0 -9.893284,4.4884232 -9.893284,10.0278872 l 0,91.933511 c 0,5.53947 4.424832,10.02789 9.893284,10.02789 l 74.9736,0 c 5.46845,0 9.89328,-4.48842 9.89328,-10.02789 l 0,-91.933511 c 0,-5.539464 -4.42483,-10.0278872 -9.89328,-10.0278872 l -74.9736,0 z m 7.335837,12.9218412 2.15364,0 55.994643,0 2.15364,0 c 2.386233,0 4.30728,1.921047 4.30728,4.30728 l 0,2.15364 0,73.223767 0,2.15364 c 0,2.38623 -1.921047,4.30728 -4.30728,4.30728 l -2.15364,0 -55.994643,0 -2.15364,0 c -2.386233,0 -4.30728,-1.92105 -4.30728,-4.30728 l 0,-2.15364 0,-73.223767 0,-2.15364 c 0,-2.386233 1.921047,-4.30728 4.30728,-4.30728 z m 4.30728,12.921841 0,8.61456 51.687363,0 0,-8.61456 -51.687363,0 z m 0,17.229121 0,8.61456 51.687363,0 0,-8.61456 -51.687363,0 z m 0,17.229121 0,8.61456 51.687363,0 0,-8.61456 -51.687363,0 z m 30.150962,12.92184 0,4.30728 4.30728,0 0,8.614561 -4.30728,0 0,4.30728 12.92184,0 0,-4.30728 -4.30728,0 0,-8.614561 4.30728,0 0,-4.30728 -12.92184,0 z m -30.150962,4.30728 0,8.614561 25.843681,0 0,-8.614561 -25.843681,0 z"
-     id="rect2957"
-     inkscape:connector-curvature="0" />
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke-width: .21px;
+      }
+
+      .cls-2, .cls-7 {
+        fill: aqua;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 12.82 12.82;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 11.96 11.96;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 12.39 12.39;
+      }
+
+      .cls-7 {
+        stroke-width: .24px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="m88.7,31.36l-58.53-5.67c-.69-.07-1.22-.9-1.17-1.85l.28-5.63c.04-.91.63-1.59,1.3-1.51l61.74,6.9c.95.11,1.62,2.04.96,2.81l-4.02,4.71c-.15.17-.34.25-.55.23Z"/>
+    <path class="cls-2" d="m90.29,43.84l-60.73-4.5c-.72-.05-1.26-.94-1.21-1.97l.3-6.09c.05-.99.66-1.73,1.36-1.67l63.98,5.78c.98.09,1.68,2.15,1,3l-4.13,5.18c-.15.19-.35.28-.57.27Z"/>
+    <path class="cls-7" d="m89.77,57.16l-60.4-2.99c-1.02-.05-1.8-1-1.75-2.12l.32-6.62c.05-1.07.9-1.88,1.89-1.82l65.56,4.39c1.38.09,2.26,2.31,1.27,3.23l-6.08,5.63c-.22.21-.51.31-.82.29Z"/>
+    <path class="cls-7" d="m91.54,71.72l-62.87-1.43c-1.06-.02-1.88-1.04-1.82-2.26l.35-7.21c.06-1.17.94-2.07,1.97-2.03l68.13,2.85c1.43.06,2.35,2.43,1.33,3.45l-6.26,6.28c-.23.23-.53.35-.84.34Z"/>
+    <path class="cls-7" d="m93.45,87.47l-65.55.42c-1.12,0-1.97-1.08-1.9-2.41l.38-7.88c.06-1.27.99-2.29,2.07-2.27l70.92,1.02c1.48.02,2.45,2.57,1.4,3.71l-6.44,7.02c-.24.26-.54.4-.87.4Z"/>
+    <path class="cls-7" d="m95.52,104.59l-68.47,2.62c-1.17.04-2.07-1.12-1.99-2.59l.42-8.66c.07-1.4,1.04-2.54,2.17-2.56l73.94-1.14c1.53-.02,2.56,2.72,1.48,3.99l-6.64,7.86c-.25.29-.56.45-.91.47Z"/>
+  </g>
+  <g>
+    <polyline class="cls-4" points="112.33 107.19 113.28 113.12 107.29 113.45"/>
+    <line class="cls-6" x1="94.92" y1="114.15" x2="26.9" y2="117.95"/>
+    <polyline class="cls-4" points="20.71 118.3 14.72 118.63 15.15 112.65"/>
+    <line class="cls-1" x1="15.92" y1="101.84" x2="21.71" y2="20.76"/>
+    <polyline class="cls-4" points="22.09 15.35 22.52 9.37 28.48 10.1"/>
+    <line class="cls-3" x1="41.21" y1="11.65" x2="85.75" y2="17.1"/>
+    <polyline class="cls-4" points="92.12 17.88 98.07 18.61 99.03 24.53"/>
+    <line class="cls-5" x1="100.93" y1="36.34" x2="111.38" y2="101.29"/>
+  </g>
 </svg>

@@ -1,79 +1,80 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery-full.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140625"
-     inkscape:cx="62.339321"
-     inkscape:cy="61.005059"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="560"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="matrix(7.2435114,0,0,7.2435114,6.702595,5.2867778)"
-     style="fill:#3399ff"
-     id="g4-7">
-    <path
-       inkscape:connector-curvature="0"
-       d="M 0,14.75 C 0,15.442 0.5575,16 1.25,16 h 8.5 C 10.442,16 11,15.442 11,14.75 V 13.062 L 9,9.688 V 13.25 C 9,13.666 8.6655,14 8.25,14 H 2.75 C 2.3345,14 2,13.666 2,13.25 V 4.75 C 2,4.334 2.3345,4 2.75,4 h 5.5 C 8.6655,4 9,4.334 9,4.75 V 8 h 2 V 3.2498 c 0,-0.6925 -0.558,-1.25 -1.25,-1.25 H 8 v -1.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -4 c -0.277,0 -0.5,0.223 -0.5,0.5 v 1.5 H 1.25 C 0.5575,1.9998 0,2.5573 0,3.2498 v 11.5 z"
-       id="path6-9"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 14,16 10,9 h 2.458 L 12,4 l 4,7 h -2.5262 z"
-       id="path8"
-       style="fill:#3399ff" />
-    <rect
-       style="opacity:0.45000000000000001;fill:#3399ff"
-       rx="0"
-       ry="0"
-       height="10"
-       width="7"
-       y="4"
-       x="2"
-       id="rect10" />
+      .cls-2, .cls-3, .cls-4 {
+        fill: aqua;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-5, .cls-3 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.28px;
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .cls-8 {
+        mask: url(#mask);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-9 {
+        mix-blend-mode: screen;
+        opacity: .75;
+      }
+    </style>
+    <filter id="luminosity-noclip" x="36" y="30" width="56" height="84" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="36" y="30" width="56" height="84" maskUnits="userSpaceOnUse">
+      <g class="cls-7">
+        <image width="56" height="84" transform="translate(36 30)" xlink:href="data:image/png;base64,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"/>
+      </g>
+    </mask>
+    <filter id="outer-glow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-6">
+    <g id="Layer_2" data-name="Layer 2">
+      <g>
+        <g>
+          <rect class="cls-1" x="38.54" y="32.56" width="50.93" height="78.63"/>
+          <g class="cls-8">
+            <g class="cls-9">
+              <rect class="cls-2" x="38.54" y="32.56" width="50.93" height="78.63"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect class="cls-5" x="38.54" y="32.56" width="50.93" height="78.63" rx="6.38" ry="6.38"/>
+          <path class="cls-3" d="m95.9,19.75h-12.99v-11.07c0-2.58-2.1-4.68-4.68-4.68h-28.46c-2.58,0-4.68,2.1-4.68,4.68v11.07h-12.99c-3.52,0-6.38,2.86-6.38,6.38v91.49c0,3.52,2.86,6.38,6.38,6.38h63.79c3.52,0,6.38-2.86,6.38-6.38V26.13c0-3.52-2.86-6.38-6.38-6.38Zm-6.43,85.06c0,3.52-2.86,6.38-6.38,6.38h-38.17c-3.52,0-6.38-2.86-6.38-6.38V38.94c0-3.52,2.86-6.38,6.38-6.38h38.17c3.52,0,6.38,2.86,6.38,6.38v65.86Z"/>
+        </g>
+        <path class="cls-4" d="m77.18,85.15c-1.83-5.14-13.62-38.39-15.75-44.36l3.67,30.92-9.5-3.41-8.48-3.04,2.85,8.03,12.43,35.05-3.27-29.66c6.28,2.25,14.28,5.12,18.04,6.47Z"/>
+      </g>
+    </g>
   </g>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
 </svg>

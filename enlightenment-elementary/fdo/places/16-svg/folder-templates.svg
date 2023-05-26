@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #868795;
+      }
+
+      .cls-2, .cls-3 {
+        fill: aqua;
+      }
+
+      .cls-4 {
+        fill: #1b0049;
+        stroke-width: .42px;
+      }
+
+      .cls-4, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: aqua;
+      }
+
+      .cls-6 {
+        fill: #dff2fc;
+      }
+
+      .cls-3 {
+        stroke: #1b0049;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: .12px;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-4" points="9.74 3.43 7.96 1.66 1.83 .47 .53 1.11 1.53 12.08"/>
+    <polyline class="cls-6" points="10.21 3.22 10.1 3.32 8.11 3.94 1.76 2.45 1.53 12.08"/>
+    <polygon class="cls-1" points="1.53 12.15 1.51 2.24 8.11 3.79 9.5 3.36 1.42 1.66 1.53 12.15"/>
+    <polygon class="cls-2" points="1.53 12.15 1.63 2.29 8.11 3.79 9.5 3.36 .92 1.49 1.53 12.15"/>
+    <polygon class="cls-4" points="13.61 11.35 1.53 12.08 1.76 2.45 8.11 3.94 10.1 3.32 15.21 4.75 13.61 11.35"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="9.72" y1="6.19" x2="8.25" y2="15.16"/>
+    <line class="cls-5" x1="9.78" y1="10.4" x2="15.47" y2="10.85"/>
+    <polygon class="cls-3" points="1.8 15.53 7.65 15.19 9.09 6.06 2.7 4.78 1.8 15.53"/>
+    <line class="cls-5" x1="13.22" y1="10.97" x2="12.36" y2="14.92"/>
+  </g>
+</svg>

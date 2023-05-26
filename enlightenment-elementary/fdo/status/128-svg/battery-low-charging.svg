@@ -1,77 +1,80 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery-good-charging.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140625"
-     inkscape:cx="62.339321"
-     inkscape:cy="61.005059"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="560"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="matrix(7.2434457,0,0,7.2434457,6.8183629,5.2867773)"
-     style="fill:#3399ff"
-     id="g4-6">
-    <rect
-       style="opacity:0.45000000000000001;fill:#3399ff"
-       height="4"
-       width="7"
-       y="10"
-       x="2"
-       id="rect6-8" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 0,14.75 C 0,15.442 0.5575,16 1.25,16 h 8.5 C 10.442,16 11,15.442 11,14.75 V 13.062 L 9,9.688 V 13.25 C 9,13.666 8.6655,14 8.25,14 H 2.75 C 2.3345,14 2,13.666 2,13.25 V 4.75 C 2,4.334 2.3345,4 2.75,4 h 5.5 C 8.6655,4 9,4.334 9,4.75 V 8 h 2 V 3.2498 c 0,-0.6925 -0.558,-1.25 -1.25,-1.25 H 8 v -1.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -4 c -0.277,0 -0.5,0.223 -0.5,0.5 v 1.5 H 1.25 C 0.5575,1.9998 0,2.5573 0,3.2498 v 11.5 z"
-       id="path8"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 14,16 10,9 h 2.458 L 12,4 l 4,7 h -2.5262 z"
-       id="path10-3"
-       style="fill:#3399ff" />
+      .cls-2, .cls-3, .cls-4 {
+        fill: aqua;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-5, .cls-3 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.28px;
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .cls-8 {
+        mask: url(#mask);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-9 {
+        mix-blend-mode: screen;
+        opacity: .75;
+      }
+    </style>
+    <filter id="luminosity-noclip" x="36" y="85" width="56" height="29" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="36" y="85" width="56" height="29" maskUnits="userSpaceOnUse">
+      <g class="cls-7">
+        <image width="56" height="29" transform="translate(36 85)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAYAAAD/56+bAAAACXBIWXMAAAsSAAALEgHS3X78AAAB+ElEQVRYhe2Y4Y7CMAyDs3Hv/8Yw1B+RjLHTFHZIhy7SRNelW765TTO2iDjii23/ZrhhP68M2rbt/Egadhzrk01OUQfQAXsXvgPhfFT/EyAGmG3V58acaSpg7Mu26pOACMRw7vdTgKNdweF19JNrkAHxQB/1y9dfgXEADIvXxvOU4k+ADLHvewnbncarkE6hPB/PuN1uD/4KslSwczjIFdCOeuoYL58h2UoFUz1Usqvi8F8xFWgFOPxZtbaCHDQfGTzCM6A6dzaCulwuD1ADwK2rEHnC+U2TDEOikgEq80tZsfRHRQZwKlXFmGPaSUbdxAXOsO8kmgyUjdcZ+lZgLUA0nrKoXAU3A63WT1pCdnyfxjb5PmpnFg5tBTljjTeKKuIU43b3/qqdz6quV1YCYlrGBe0CS1NTqDNObQ+8fbiN35kFZBVUyXS9Xh+2CTW2AnLXcZY4qK6iErAqmXJ/wuyZoAEbPN7DrSk1FdVzqyNIgCmgWz+55tiPt4h8AWzY1/mec18JWMV0lCwVZChUL0xBoNodmxXaYdTkadwCRENIVPfsr4luwY3XXZWDJqeoggyqbGZZcgWyyqh8rhJelVGnSYb7ZyDvbtIOTJ13kkzrPxkX+JkVR2UzhatEs/Sv2qrPWfZKNVQCrtpvwa6UZM7+/7r/0xYRd8gHex+M/8+7AAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="outer-glow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-6">
+    <g id="Layer_2" data-name="Layer 2">
+      <g>
+        <g>
+          <rect class="cls-1" x="38.54" y="87.58" width="50.93" height="23.61"/>
+          <g class="cls-8">
+            <g class="cls-9">
+              <rect class="cls-2" x="38.54" y="87.58" width="50.93" height="23.61"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect class="cls-5" x="38.54" y="32.56" width="50.93" height="78.63" rx="6.38" ry="6.38"/>
+          <path class="cls-3" d="m95.9,19.75h-12.99v-11.07c0-2.58-2.1-4.68-4.68-4.68h-28.46c-2.58,0-4.68,2.1-4.68,4.68v11.07h-12.99c-3.52,0-6.38,2.86-6.38,6.38v91.49c0,3.52,2.86,6.38,6.38,6.38h63.79c3.52,0,6.38-2.86,6.38-6.38V26.13c0-3.52-2.86-6.38-6.38-6.38Zm-6.43,85.06c0,3.52-2.86,6.38-6.38,6.38h-38.17c-3.52,0-6.38-2.86-6.38-6.38V38.94c0-3.52,2.86-6.38,6.38-6.38h38.17c3.52,0,6.38,2.86,6.38,6.38v65.86Z"/>
+        </g>
+        <path class="cls-4" d="m77.18,85.15c-1.83-5.14-13.62-38.39-15.75-44.36l3.67,30.92-9.5-3.41-8.48-3.04,2.85,8.03,12.43,35.05-3.27-29.66c6.28,2.25,14.28,5.12,18.04,6.47Z"/>
+      </g>
+    </g>
   </g>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
 </svg>

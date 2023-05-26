@@ -1,60 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery-caution.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="68.843267"
-     inkscape:cy="77.767844"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="506"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#d40000"
-     inkscape:connector-curvature="0"
-     d="m 25.214285,111.66406 c 0,4.97066 4.004542,8.9788 8.978795,8.9788 h 61.055803 c 4.970657,0 8.978797,-4.00814 8.978797,-8.9788 V 29.059151 c 0,-4.974252 -4.00814,-8.978794 -8.978797,-8.978794 H 82.67857 V 9.3058025 c 0,-1.9897001 -1.601817,-3.5915172 -3.591518,-3.5915172 H 50.35491 c -1.989702,0 -3.591518,1.6018171 -3.591518,3.5915172 V 20.080357 H 34.19308 c -4.974253,0 -8.978795,4.004542 -8.978795,8.978794 z M 39.580357,100.8895 V 39.833705 c 0,-2.988143 2.402725,-5.387278 5.387276,-5.387278 H 84.47433 c 2.98455,0 5.387276,2.402727 5.387276,5.387278 V 100.8895 c 0,2.98816 -2.399134,5.38728 -5.387276,5.38728 H 44.967633 c -2.984551,0 -5.387276,-2.39912 -5.387276,-5.38728 z"
-     id="path4" />
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.28px;
+      }
+
+      .cls-3 {
+        fill: aqua;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="38.54" y="99.39" width="50.93" height="11.79"/>
+  <g>
+    <rect class="cls-2" x="38.54" y="32.56" width="50.93" height="78.63" rx="6.38" ry="6.38"/>
+    <path class="cls-3" d="m95.9,19.75h-12.99v-11.07c0-2.58-2.1-4.68-4.68-4.68h-28.46c-2.58,0-4.68,2.1-4.68,4.68v11.07h-12.99c-3.52,0-6.38,2.86-6.38,6.38v91.49c0,3.52,2.86,6.38,6.38,6.38h63.79c3.52,0,6.38-2.86,6.38-6.38V26.13c0-3.52-2.86-6.38-6.38-6.38Zm-6.43,85.06c0,3.52-2.86,6.38-6.38,6.38h-38.17c-3.52,0-6.38-2.86-6.38-6.38V38.94c0-3.52,2.86-6.38,6.38-6.38h38.17c3.52,0,6.38,2.86,6.38,6.38v65.86Z"/>
+  </g>
 </svg>

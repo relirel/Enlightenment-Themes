@@ -1,93 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .21px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ZZ-BASE.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="74.074244"
-     inkscape:cy="64.012537"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1932"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="1.0044731"
-     inkscape:original="M 40 29 L 40 35 L 72 35 L 72 29 L 40 29 z M 24 41 L 24 47 L 56 47 L 56 41 L 24 41 z M 72 41 L 60 50 L 72 59 L 72 41 z M 24 53 L 24 59 L 50 59 L 50 53 L 24 53 z M 40 65 L 40 71 L 72 71 L 72 65 L 40 65 z "
-     style="fill:#3399ff;fill-opacity:1;stroke:none;display:inline"
-     id="path3871"
-     d="M 39.8125,28 A 1.0045735,1.0045735 0 0 0 39,29 l 0,6 a 1.0045735,1.0045735 0 0 0 1,1 l 32,0 a 1.0045735,1.0045735 0 0 0 1,-1 l 0,-6 a 1.0045735,1.0045735 0 0 0 -1,-1 l -32,0 a 1.0045735,1.0045735 0 0 0 -0.1875,0 z m -16,12 A 1.0045735,1.0045735 0 0 0 23,41 l 0,6 a 1.0045735,1.0045735 0 0 0 1,1 l 32,0 a 1.0045735,1.0045735 0 0 0 1,-1 l 0,-6 a 1.0045735,1.0045735 0 0 0 -1,-1 l -32,0 a 1.0045735,1.0045735 0 0 0 -0.1875,0 z m 48.0625,0 a 1.0045735,1.0045735 0 0 0 -0.46875,0.1875 l -12,9 a 1.0045735,1.0045735 0 0 0 0,1.625 l 12,9 A 1.0045735,1.0045735 0 0 0 73,59 L 73,41 A 1.0045735,1.0045735 0 0 0 71.875,40 z M 23.8125,52 A 1.0045735,1.0045735 0 0 0 23,53 l 0,6 a 1.0045735,1.0045735 0 0 0 1,1 l 26,0 a 1.0045735,1.0045735 0 0 0 1,-1 l 0,-6 a 1.0045735,1.0045735 0 0 0 -1,-1 l -26,0 a 1.0045735,1.0045735 0 0 0 -0.1875,0 z m 16,12 A 1.0045735,1.0045735 0 0 0 39,65 l 0,6 a 1.0045735,1.0045735 0 0 0 1,1 l 32,0 a 1.0045735,1.0045735 0 0 0 1,-1 l 0,-6 a 1.0045735,1.0045735 0 0 0 -1,-1 l -32,0 a 1.0045735,1.0045735 0 0 0 -0.1875,0 z"
-     transform="matrix(2.2396091,0,0,2.2396091,-43.428348,-48.120235)" />
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1b0049;
+        stroke: aqua;
+      }
+
+      .cls-2 {
+        fill: aqua;
+        filter: url(#outer-glow-13);
+        stroke: #1b0049;
+        stroke-width: .23px;
+      }
+
+      .cls-3 {
+        stroke-width: .24px;
+      }
+    </style>
+    <filter id="outer-glow-13" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="4.65"/>
+      <feFlood flood-color="#1b0049" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <path class="cls-3" d="m111.47,20.04H15.9c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+    <path class="cls-1" d="m114.24,34.01H43.75c-.75,0-1.36-.83-1.36-1.84v-6.15c0-1.02.61-1.84,1.36-1.84h76.91c1.33,0,1.87,2.31.78,3.35l-6.43,6.15c-.23.22-.5.34-.78.34Z"/>
+    <path class="cls-1" d="m114.24,47.97H43.75c-.75,0-1.36-.83-1.36-1.84v-6.15c0-1.02.61-1.84,1.36-1.84h76.91c1.33,0,1.87,2.31.78,3.35l-6.43,6.15c-.23.22-.5.34-.78.34Z"/>
+    <path class="cls-1" d="m114.24,61.94H43.75c-.75,0-1.36-.83-1.36-1.84v-6.15c0-1.02.61-1.84,1.36-1.84h76.91c1.33,0,1.87,2.31.78,3.35l-6.43,6.15c-.23.22-.5.34-.78.34Z"/>
+    <path class="cls-3" d="m111.47,75.9H15.9c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+    <path class="cls-3" d="m111.47,89.87H15.9c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+    <path class="cls-3" d="m111.47,103.83H15.9c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+    <path class="cls-3" d="m111.47,117.8H15.9c-1.02,0-1.84-.83-1.84-1.84v-6.15c0-1.02.83-1.84,1.84-1.84h104.28c1.8,0,2.53,2.31,1.06,3.35l-8.71,6.15c-.31.22-.68.34-1.06.34Z"/>
+  </g>
+  <polygon class="cls-2" points="35.59 64.94 21.77 43.05 35.59 21.17 5.97 43.05 35.59 64.94"/>
 </svg>

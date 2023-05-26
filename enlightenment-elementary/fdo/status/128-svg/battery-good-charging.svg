@@ -1,77 +1,80 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="battery-full-charging.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140625"
-     inkscape:cx="62.339321"
-     inkscape:cy="61.005059"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="560"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="matrix(7.2435125,0,0,7.2435125,6.8183632,5.2867779)"
-     style="fill:#3399ff"
-     id="g4">
-    <rect
-       style="opacity:0.45000000000000001;fill:#3399ff"
-       height="6"
-       width="7"
-       y="8"
-       x="2"
-       id="rect6" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 0,14.75 C 0,15.442 0.5575,16 1.25,16 h 8.5 C 10.442,16 11,15.442 11,14.75 V 13.062 L 9,9.688 V 13.25 C 9,13.666 8.6655,14 8.25,14 H 2.75 C 2.3345,14 2,13.666 2,13.25 V 4.75 C 2,4.334 2.3345,4 2.75,4 h 5.5 C 8.6655,4 9,4.334 9,4.75 V 8 h 2 V 3.2498 c 0,-0.6925 -0.558,-1.25 -1.25,-1.25 H 8 v -1.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -4 c -0.277,0 -0.5,0.223 -0.5,0.5 v 1.5 H 1.25 C 0.5575,1.9998 0,2.5573 0,3.2498 v 11.5 z"
-       id="path8-8"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 14,16 10,9 h 2.458 L 12,4 l 4,7 h -2.5262 z"
-       id="path10"
-       style="fill:#3399ff" />
+      .cls-2, .cls-3, .cls-4 {
+        fill: aqua;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-5, .cls-3 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.28px;
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .cls-8 {
+        mask: url(#mask);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-9 {
+        mix-blend-mode: screen;
+        opacity: .75;
+      }
+    </style>
+    <filter id="luminosity-noclip" x="36" y="61" width="56" height="53" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="36" y="61" width="56" height="53" maskUnits="userSpaceOnUse">
+      <g class="cls-7">
+        <image width="56" height="53" transform="translate(36 61)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA1CAYAAAAUGCjAAAAACXBIWXMAAAsSAAALEgHS3X78AAAEVklEQVRogd2agW4jIQxESZr//+I2OSF1pOlkxjZVrror0qqbDQEeYxvw9rLWeqxfXK6/GW6XW1fhcrn8zEi+WR6P2gCfTJSBJvda728Onj9P7pcCYqD7L67quX63ikmZguBe/+IZLv7s7lGeTJQh9nW9Xu2zNBGvANRBV9f9fo9qrgpwQwAO9/xZ4RVwApqU0/sNARD+vK/dNu5bQFVpX29vb18A9+ek7KmSJ8oB8OPj4wvg/sxt7b6sifIgMPgNA0C+TypWkNyHCx4JDmAA2v1tKIDhN3iukK2J7ut2uz0pySarwBMVk3oM5EwSZqmC7Hp4HoMMzz6bpFORgWC2SclKwcosYY67D5gjt4d6+N6VVkGFY0Bnsh2kUzH5nAPjtnb/qOdc4knBJYGGAwoDbZN1plr54wkgw6EdVkjruT4toFMgwTmfdOsk3zs4Xsdwr3D47e6bf6/9jhTkgWmwcWargOqPnYK7vvodBwz9LeCd5bhSAursOP/jIOPWyA5wicnturwEuAnhaMrjHAFWZprU7IKNg3T+B1/DX13r2O+qoBYBdTBuQU/mmoLNdxR0AcWZpuujDDJasbu6vWrq3J0Y0ukBi3gKPt1ERh/UBbpSUc1ZHX8C6JYGwCUoFcOV8kRfNTZV0HXOoIBkE1QFK+VUiFbByg8d3PQ5INbneudKAukC17GCzqYrJdMFIF3sK9BOHW0jgZWArkM3AWlAqlr6vW6SsVSktruo7Mo4bTh1bGda1USkYNRBTOqsCrBqoHPsqn56Nulr2haXlyZ+T0znp0oJmJKqr3he5TxP66XfrgowNez2kO63mtJLp/iuTjW+rk4J6BqqZlkv/d61xam+VMe1OwFDaZeJNMjq4vqA4B2K5jC7trTuosNxB2sBXQpBn2NblQalOxJ3xnP9uGfuuWtnBJhmLV0AUXBtUyOsM9eHpAgr8ErlsYIdHLJdvBtJ+RQHqO0rSFKvAz1S0JllynahdNsr9ScFZDBN+lZBp1WwUm2rldTRNk5O9MkPkbJwqiIxVcGWCiazcUcZB/cIWbGLpNWTgu4FS/JLt9SUgCju3QB8jgfOk+Hgqu2bArIyapoKq9Y19kE3o/ouLpmmqtyd2VSB6oXLhnh/fy99cgTo4Nj3dD1Lwec7CqaJTeY6gXwKMuoL18/3bikKMlyVzjsBTMHGwXWbgFJBNk2XhEVe1Cm45AB7Csi+pepVKpYKOsj0Tk598/KZul9yWO7OiCmSTkxVA44r1kQ5WEA5vCSpUoQcZR2cLhMOcIWAo6AacFoTfdB+UaMhngHS+VsKLCcK6iQ7QJiumqlbX1elIBpS89Fkr0sqJfUc2AnkyfbNAjoYfk+uJukyZBO4ClJ3JulSVcdBhive6bCKZ9VGugosbpnpYHXgOrb0XQm45LC6xD8VZJruq0qKgM5009/Uxh7Fl2+62Z+a3yvKVOn0vQV05V/Md65h8mkE+D+X3/0vzWutP8YcA0FHyq8PAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="outer-glow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-6">
+    <g id="Layer_2" data-name="Layer 2">
+      <g>
+        <g>
+          <rect class="cls-1" x="38.54" y="63.95" width="50.93" height="47.24"/>
+          <g class="cls-8">
+            <g class="cls-9">
+              <rect class="cls-2" x="38.54" y="63.95" width="50.93" height="47.24"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect class="cls-5" x="38.54" y="32.56" width="50.93" height="78.63" rx="6.38" ry="6.38"/>
+          <path class="cls-3" d="m95.9,19.75h-12.99v-11.07c0-2.58-2.1-4.68-4.68-4.68h-28.46c-2.58,0-4.68,2.1-4.68,4.68v11.07h-12.99c-3.52,0-6.38,2.86-6.38,6.38v91.49c0,3.52,2.86,6.38,6.38,6.38h63.79c3.52,0,6.38-2.86,6.38-6.38V26.13c0-3.52-2.86-6.38-6.38-6.38Zm-6.43,85.06c0,3.52-2.86,6.38-6.38,6.38h-38.17c-3.52,0-6.38-2.86-6.38-6.38V38.94c0-3.52,2.86-6.38,6.38-6.38h38.17c3.52,0,6.38,2.86,6.38,6.38v65.86Z"/>
+        </g>
+        <path class="cls-4" d="m77.18,85.15c-1.83-5.14-13.62-38.39-15.75-44.36l3.67,30.92-9.5-3.41-8.48-3.04,2.85,8.03,12.43,35.05-3.27-29.66c6.28,2.25,14.28,5.12,18.04,6.47Z"/>
+      </g>
+    </g>
   </g>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
 </svg>

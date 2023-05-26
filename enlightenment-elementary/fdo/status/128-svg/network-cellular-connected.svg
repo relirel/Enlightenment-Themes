@@ -1,60 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-cellular-4g.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.7676601"
-     inkscape:cx="77.24482"
-     inkscape:cy="82.666717"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="46"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <path
-     style="fill:#3399ff"
-     inkscape:connector-curvature="0"
-     d="m 33.682073,4.7401833 c 0,0 -3.634417,1.6209498 -3.634417,3.6344167 v 105.39808 c 0,4.02694 3.241899,7.26883 7.268834,7.26883 h 58.150666 c 4.026935,0 7.268834,-3.24189 7.268834,-7.26883 V 26.546685 c 0,-4.026934 -3.241899,-7.268834 -7.268834,-7.268834 H 44.585323 V 8.3746 c 0,-2.0134669 -3.634418,-3.6344167 -3.634418,-3.6344167 z m 7.268832,29.0753347 h 50.881833 c 2.013468,0 3.634418,1.62095 3.634418,3.634416 v 21.806499 c 0,2.013467 -1.62095,3.634416 -3.634418,3.634416 H 40.950905 c -2.013465,0 -3.634415,-1.620949 -3.634415,-3.634416 V 37.449934 c 0,-2.013466 1.62095,-3.634416 3.634415,-3.634416 z M 37.31649,70.159683 h 14.537667 v 7.268834 H 37.31649 z m 21.806499,0 h 14.537666 v 7.268834 H 59.122989 z m 21.8065,0 h 14.537667 v 7.268834 H 80.929489 z M 37.31649,84.69735 h 14.537667 v 7.268833 H 37.31649 z m 21.806499,0 h 14.537666 v 7.268833 H 59.122989 z m 21.8065,0 h 14.537667 v 7.268833 H 80.929489 z M 37.31649,99.235016 h 14.537667 v 7.268834 H 37.31649 z m 21.806499,0 h 14.537666 v 7.268834 H 59.122989 z m 21.8065,0 h 14.537667 v 7.268834 H 80.929489 z"
-     id="path4-4" />
+      .cls-2 {
+        fill: aqua;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m80.88,23.73l-.81.08c-.21.02-.46-.18-.56-.45l-2.61-6.88c-.1-.27-.01-.5.2-.51l.83-.04c.21-.01.46.2.56.47l2.59,6.82c.1.27.02.5-.19.52Z"/>
+  <path class="cls-1" d="m84.17,32.4l-.79.12c-.2.03-.45-.16-.55-.43l-2.6-6.85c-.1-.27-.02-.51.19-.53l.81-.09c.21-.02.45.18.56.44l2.57,6.78c.1.27.02.51-.18.54Z"/>
+  <path class="cls-1" d="m89.13,45.5l-.77.19c-.2.05-.44-.13-.54-.39l-2.58-6.79c-.1-.27-.02-.52.18-.55l.78-.15c.2-.04.44.15.54.41l2.55,6.73c.1.26.02.52-.17.56Z"/>
+  <path class="cls-2" d="m105.29,100.03l-33.74,22.14c-2.71,1.78-6.01.61-7.31-2.65L21.37,11.3c-1.39-3.51.44-6.33,4-6.3l43.89.36c2.22.02,4.81,2.2,5.82,4.88l31.56,83.19c.96,2.53.37,5.48-1.35,6.61Z"/>
+  <path class="cls-1" d="m66.97,116.25L26.03,12.59c-.8-2.02.23-3.67,2.25-3.69l41.27-.39c1.31-.01,2.85,1.27,3.46,2.86l31.27,82.24c.57,1.51.21,3.25-.82,3.9l-32.27,20.34c-1.57.99-3.47.28-4.22-1.61Z"/>
+  <g>
+    <polygon class="cls-2" points="66.91 42.81 69.53 40.42 72.35 44.37 66.91 42.81"/>
+    <polygon class="cls-2" points="70.21 51.37 75.93 45.76 78.87 53.42 70.21 51.37"/>
+    <polygon class="cls-2" points="73.86 61.02 80.69 53.84 81.08 62.42 73.86 61.02"/>
+    <polygon class="cls-2" points="64.49 42.39 60.71 41.48 62.41 37 67 40.31 64.49 42.39"/>
+    <polygon class="cls-2" points="67.97 51.38 59.3 49.28 65.08 43.9 73.22 46.13 67.97 51.38"/>
+    <polygon class="cls-2" points="62.67 43.66 58.39 42.53 58.74 47.3 62.67 43.66"/>
+    <polygon class="cls-2" points="66.07 52.41 56.22 50.23 59.55 58.77 66.07 52.41"/>
+    <polygon class="cls-2" points="71.72 61.08 61.95 59.13 68.43 52.58 77.52 54.74 71.72 61.08"/>
+    <polygon class="cls-2" points="69.95 62.24 58.02 60.24 64.64 67.92 69.95 62.24"/>
+    <polygon class="cls-2" points="75.97 74.11 74.24 69.63 66.73 68.43 72.21 62.36 80.05 63.88 75.61 69.13 77.33 73.57 75.97 74.11"/>
+  </g>
 </svg>

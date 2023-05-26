@@ -1,70 +1,71 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .18px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="user-busy.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895777"
-     inkscape:cy="51.036686"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <g
-     transform="matrix(7.8392447,0,0,7.8392447,1.5121529,-0.71741248)"
-     style="fill:#3399ff"
-     id="g4">
-    <path
-       style="opacity:0.45000000000000001;fill:#3399ff"
-       inkscape:connector-curvature="0"
-       d="M 13,8 A 5,4 0 1 1 8,4 v 4 z"
-       id="path6" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 8,2 C 4.134,2 1,4.4101 1,8 c 0,3.5899 3.134,6 7,6 1.065,0 2.0651,-0.22996 2.9688,-0.625 l 4.031,1.625 -1.438,-3.562 c 0.904,-1.095 1.438,-1.9524 1.438,-3.438 0,-3.5899 -3.134,-6 -7,-6 z m 0,2 c 2.7614,0 5,1.7909 5,4 0,2.2091 -2.2386,4 -5,4 C 5.2386,12 3,10.209 3,8 3,5.7909 5.2386,4 8,4 z"
-       id="path8"
-       style="fill:#3399ff" />
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1b0049;
+      }
+
+      .cls-1, .cls-4, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: aqua;
+      }
+
+      .cls-5, .cls-4 {
+        fill: aqua;
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-10);
+        stroke: #1b0049;
+        stroke-width: 1.59px;
+      }
+
+      .cls-3 {
+        stroke-width: .99px;
+      }
+    </style>
+    <filter id="outer-glow-10" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="7.96"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <path class="cls-2" d="m4,13.2l21.06,65.55,53.39,16.38,1.21,19.67,16.22-14.33,18.17,5.58,9.95-71.79L4,13.2Z"/>
+    <g>
+      <path class="cls-3" d="m85.19,57.28c3.84,14.71-3.67,25.57-14.98,26.32-10.13.67-21.95-6.92-28.06-18.25-7.09-13.17-5.17-28.7,6.84-33.16,13.94-5.18,31.55,7.32,36.19,25.09Z"/>
+      <g>
+        <polygon class="cls-5" points="59.7 32.99 59.54 37.81 58.71 33.06 59.7 32.99 59.7 32.99"/>
+        <polygon class="cls-5" points="62.12 82 62.44 79.49 63.11 81.93 62.12 82 62.12 82"/>
+        <polygon class="cls-5" points="47.08 34.9 48.96 39.37 46.22 35.38 47.08 34.9 47.08 34.9"/>
+        <polygon class="cls-5" points="72.04 82.63 71.04 79.76 72.91 82.16 72.04 82.63 72.04 82.63"/>
+      </g>
+      <g>
+        <polygon class="cls-5" points="40.19 44.06 43.02 47 39.57 44.83 40.19 44.06 40.19 44.06"/>
+        <polygon class="cls-5" points="80.35 77.97 78.02 75.44 80.98 77.2 80.35 77.97 80.35 77.97"/>
+        <polygon class="cls-5" points="39.81 56.15 42.62 57.33 39.58 57.11 39.81 56.15 39.81 56.15"/>
+        <polygon class="cls-5" points="84.77 67.93 81.39 66.61 85 66.96 84.77 67.93 84.77 67.93"/>
+      </g>
+      <g>
+        <polygon class="cls-5" points="82.85 53.99 79.26 54.84 82.5 53.06 82.85 53.99 82.85 53.99"/>
+        <polygon class="cls-5" points="44.47 67.68 46.76 67.33 44.82 68.61 44.47 67.68 44.47 67.68"/>
+        <polygon class="cls-5" points="73.58 40.37 71.15 43.74 72.71 39.9 73.58 40.37 73.58 40.37"/>
+        <polygon class="cls-5" points="52.4 76.72 53.86 75.09 53.27 77.2 52.4 76.72 52.4 76.72"/>
+      </g>
+      <path class="cls-5" d="m60.65,61.18l5.96-4.77.09.39-2.86-1.04-.22-.08s.23-.08.23-.08c.61-.22,5.98-2.11,6.42-2.26,0,0-.4.87-.4.87l-2.57,5.54-.25.54.09-.58.64-4.06-.47,4.08-.16-.04,1.96-5.79.5.55-5.7,1.31v-.16c.18.05,3.27.84,3.31.85,0,0-.28.3-.28.3l-5.17,5.62-1.11-1.19h0Z"/>
+      <path class="cls-5" d="m62.02,61.24l6.76,11.44-.51.14c.02-.19.37-3.28.38-3.34.93,2.13,3.66,8.37,4.56,10.41-1.31-1.42-6.36-6.91-7.77-8.43,0,0,.13-.15.13-.15l4.13,3.25-4.25-3.1.13-.15,6.33,5.7-.81.53-2.49-7.65.2-.03c0,.62.02,3.26.03,3.82,0,0-.52-.7-.52-.7l-7.92-10.67,1.63-1.08h0Z"/>
+      <path class="cls-1" d="m62.56,62.1c-.05-.79-.7-1.59-1.46-1.76s-1.31.33-1.25,1.12.71,1.55,1.45,1.73,1.31-.3,1.26-1.08Z"/>
+    </g>
   </g>
+  <path class="cls-4" d="m94.86,208.13c-8.19-.94-17.9.24-19.61,1.95l-9.11-9.9,22.54-34.68c2.29.77,4.83,2.44,7.93,4.89l1.35-3.16-13.8-9.85c-13.78-10.9-16.67-6.47-34.65,24.71l-21.21-23.06s-5.04,13.84-20.69,6.38c4.97,8.66,12.02,19.07,25.93,10.34l11.9,13.22c-21.04,34.31-25.57,41.06-40.25,30.84l-1.68,2.28,14.13,10.72c14.61,10.17,19.15,3.54,39.94-30.35l2.65,2.95-21.53,33.07,1.61,1.41,21.36-32.88,16.72,18.57s9.54-8.8,25.39-4.03c15.85,4.77,19.28,13.37,15.65,19.61-3.63,6.25-16.59,6.25-25.52,0l3.02,7.12s19.92,6.54,26.06-8.13c5.17-12.36-10.49-30.01-28.14-32.04Zm-33.09-12.71c12.78-22.17,17.98-30.96,24.77-30.39l-21.85,33.56-2.92-3.17Z"/>
 </svg>

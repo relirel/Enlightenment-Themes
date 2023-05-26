@@ -1,90 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .21px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="ZZ-BASE.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="66.06226"
-     inkscape:cy="74.589172"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="1932"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     style="fill:#3399ff;fill-opacity:1;stroke:none;display:inline"
-     d="m 22.3114,8.2880471 0,13.9865179 83.91911,0 0,-13.9865179 -83.91911,0 z M 8.3248808,31.598911 l 0,13.986518 111.8921492,0 0,-13.986518 -111.8921492,0 z m 23.3108642,23.310864 0,13.986519 65.27042,0 0,-13.986519 -65.27042,0 z m 13.986519,25.641951 0,11.655432 -32.63521,0 0,13.986522 32.63521,0 0,13.98651 L 64.270955,99.200417 45.622264,80.551726 z m 18.648691,18.648691 18.648691,20.979773 0,-13.98651 32.635214,0 0,-13.986522 -32.635214,0 0,-11.655432 -18.648691,18.648691 z"
-     id="path4011"
-     inkscape:connector-curvature="0" />
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #1b0049;
+        stroke: aqua;
+      }
+
+      .cls-2 {
+        fill: aqua;
+        stroke: #1b0049;
+        stroke-width: .89px;
+      }
+
+      .cls-3 {
+        stroke-width: .14px;
+      }
+
+      .cls-4 {
+        stroke-width: .18px;
+      }
+
+      .cls-5 {
+        stroke-width: .2px;
+      }
+
+      .cls-6 {
+        stroke-width: .17px;
+      }
+    </style>
+    <filter id="outer-glow-14" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="8.3"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="104.4 100.38 111.86 120.82 73.58 100.25 115.02 78.74 97.59 99.06 99.7 93.79 94.15 99.76 104.84 109.05 104.4 100.38"/>
+    <polygon class="cls-2" points="29.99 100.38 22.53 120.82 60.81 100.25 19.36 78.74 36.8 99.06 34.69 93.79 40.23 99.76 29.55 109.05 29.99 100.38"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="11.37" y="7.18" width="111.64" height="9.77" rx="1.55" ry="1.55"/>
+    <rect class="cls-4" x="24.38" y="21.18" width="85.63" height="9.77" rx="1.36" ry="1.36"/>
+    <rect class="cls-5" x="14.99" y="35.37" width="104.41" height="9.77" rx="1.5" ry="1.5"/>
+    <rect class="cls-3" x="40.93" y="49.37" width="52.53" height="9.77" rx="1.06" ry="1.06"/>
+    <rect class="cls-6" x="30.86" y="63.07" width="72.66" height="9.77" rx="1.25" ry="1.25"/>
+  </g>
 </svg>

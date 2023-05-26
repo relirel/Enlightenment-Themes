@@ -1,90 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-1);
+        stroke-width: 1.64px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="appointment-new.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="5.3735826"
-     inkscape:cy="61.499128"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="4px"
-       spacingy="4px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     id="path3928"
-     d="m 67.404286,11.887214 c -27.037118,0 -48.955033,21.917913 -48.955033,48.955032 0,4.050504 0.480096,7.984977 1.407458,11.749208 l 12.789503,0 c -1.250901,-3.696518 -1.958202,-7.630273 -1.958202,-11.749208 0,-20.277844 16.438441,-36.716274 36.716274,-36.716274 20.277844,0 36.716284,16.43843 36.716284,36.716274 0,20.277836 -16.43844,36.716268 -36.716284,36.716268 -4.118934,0 -8.052689,-0.70729 -11.749207,-1.958195 l 0,12.789501 c 3.764231,0.92736 7.698704,1.40744 11.749207,1.40744 27.037119,0 48.955034,-21.917896 48.955034,-48.955014 0,-27.037119 -21.917915,-48.955032 -48.955034,-48.955032 z M 67.037125,30.24535 c -3.157501,0 -5.752218,2.594715 -5.752218,5.752216 l 0,25.211842 c 0,3.157502 2.594717,5.752217 5.752218,5.752217 0.130768,0.0086 0.23425,0 0.367161,0 l 0.367164,0 21.050664,0 c 3.390135,0 6.119378,-2.729244 6.119378,-6.119379 0,-3.390136 -2.729243,-6.11938 -6.119378,-6.11938 l -15.298447,0 0,-18.7253 c 0,-3.157501 -2.594716,-5.752216 -5.752217,-5.752216 l -0.734325,0 z m -46.629671,46.262506 0,15.665611 -15.6656093,0 0,15.665603 15.6656093,0 0,15.66561 15.665611,0 0,-15.66561 15.665612,0 0,-15.665603 -15.665612,0 0,-15.665611 -15.665611,0 z"
-     style="color:#000000;fill:#3399ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     inkscape:connector-curvature="0" />
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill: #1b0049;
+        stroke: aqua;
+      }
+
+      .cls-5, .cls-2 {
+        fill: aqua;
+      }
+
+      .cls-2 {
+        stroke: #1b0049;
+      }
+
+      .cls-4 {
+        stroke-width: .42px;
+      }
+    </style>
+    <filter id="outer-glow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="8.18"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="m244,71.47c-8.43-.97-18.42.24-20.18,2l-9.37-10.19,23.19-35.68c2.36.8,4.97,2.51,8.16,5.03l1.38-3.25-14.19-10.14c-14.18-11.21-17.16-6.65-35.65,25.43l-21.82-23.72s-5.18,14.23-21.28,6.56c5.11,8.91,12.37,19.62,26.67,10.64l12.24,13.6c-21.65,35.3-26.3,42.25-41.4,31.73l-1.73,2.35,14.54,11.03c15.03,10.47,19.7,3.64,41.1-31.23l2.73,3.03-22.15,34.02,1.66,1.45,21.98-33.82,17.2,19.11s9.81-9.05,26.12-4.15c16.31,4.91,19.83,13.75,16.1,20.18-3.73,6.43-17.07,6.43-26.26,0l3.11,7.32s20.5,6.72,26.81-8.36c5.32-12.71-10.79-30.88-28.95-32.96Zm-34.05-13.07c13.15-22.81,18.5-31.85,25.48-31.27l-22.48,34.53-3-3.26Z"/>
+  <g>
+    <path class="cls-3" d="m29.92,111.21l.38-10.13-10.86.4c3.11,3.7,6.64,6.96,10.49,9.73Z"/>
+    <path class="cls-3" d="m7.6,78.44l22.7.84-1.03-27.71h23.85l-1.03,27.71,27.71-1.03v23.85s-27.71-1.03-27.71-1.03l.74,20.07c10.64,2.09,22,1.24,32.82-3.1,29.85-11.95,44.35-45.84,32.4-75.69C106.09,12.51,72.2-2,42.36,9.96,14.89,20.96.41,50.53,7.6,78.44Z"/>
+    <polygon class="cls-2" points="7.58 96.91 35.49 95.88 34.46 123.79 47.92 123.79 46.89 95.88 74.8 96.91 74.8 83.44 46.89 84.48 47.92 56.57 34.46 56.57 35.49 84.48 7.58 83.44 7.58 96.91"/>
+  </g>
+  <g>
+    <g>
+      <polygon class="cls-5" points="65.12 8.31 64 16.19 62.88 8.31 65.12 8.31 65.12 8.31"/>
+      <polygon class="cls-5" points="62.88 119.69 64 111.81 65.12 119.69 62.88 119.69 62.88 119.69"/>
+      <polygon class="cls-5" points="37.13 15.21 40.1 22.6 35.19 16.33 37.13 15.21 37.13 15.21"/>
+      <polygon class="cls-5" points="90.87 112.79 87.9 105.4 92.81 111.67 90.87 112.79 90.87 112.79"/>
+    </g>
+    <g>
+      <polygon class="cls-5" points="16.33 35.19 22.6 40.1 15.21 37.13 16.33 35.19 16.33 35.19"/>
+      <polygon class="cls-5" points="111.67 92.81 105.4 87.9 112.79 90.87 111.67 92.81 111.67 92.81"/>
+      <polygon class="cls-5" points="8.31 62.88 16.19 64 8.31 65.12 8.31 62.88 8.31 62.88"/>
+      <polygon class="cls-5" points="119.69 65.12 111.81 64 119.69 62.88 119.69 65.12 119.69 65.12"/>
+    </g>
+    <g>
+      <polygon class="cls-5" points="112.79 37.13 105.4 40.1 111.67 35.19 112.79 37.13 112.79 37.13"/>
+      <polygon class="cls-5" points="15.21 90.87 22.6 87.9 16.33 92.81 15.21 90.87 15.21 90.87"/>
+      <polygon class="cls-5" points="92.81 16.33 87.9 22.6 90.87 15.21 92.81 16.33 92.81 16.33"/>
+      <polygon class="cls-5" points="35.19 111.67 40.1 105.4 37.13 112.79 35.19 111.67 35.19 111.67"/>
+    </g>
+    <path class="cls-5" d="m62.67,62.73l14.96-13.77.34.89-6.65-.86-.6-.08s.54-.28.54-.28c1.74-.92,13.63-7.22,15.05-7.98,0,0-1.18,2.5-1.18,2.5-.3.64-6.66,14.08-6.72,14.22,0,0,.26-1.42.26-1.42l1.69-9.07-1.32,9.13-.36-.1,4.72-13.47,1.26,1.2-13.24,5.34-.07-.36c.71.02,7.27.21,7.77.22,0,0-.72.86-.72.86l-13.07,15.58-2.66-2.54h0Z"/>
+    <path class="cls-5" d="m65.08,62.08l24.72,15.75-.91.77-2.38-7.66-.25-.8.63.56c2.71,2.44,16.03,14.45,18.44,16.62,0,0-4.76-1.44-4.76-1.44-1.15-.34-20.61-6.24-21.13-6.4,0,0,2.19.2,2.19.2l12.11,1.1-12.14-.65s.07-.44.07-.44l19.45,4.01-1.06,1.89-13.5-14.57.37-.24,3.14,7.38.66,1.54-1.56-.77-26.27-13.02,2.17-3.84h0Z"/>
+    <circle class="cls-4" cx="64" cy="64" r="3.34"/>
+  </g>
 </svg>

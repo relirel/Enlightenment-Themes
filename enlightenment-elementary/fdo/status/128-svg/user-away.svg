@@ -1,60 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="user-available.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895777"
-     inkscape:cy="51.036686"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <path
-     style="fill:#3399ff"
-     inkscape:connector-curvature="0"
-     d="m 64.128138,14.961077 c -30.252439,0 -54.7767904,18.859649 -54.7767904,46.951534 0,28.091887 24.5243514,46.951539 54.7767904,46.951539 8.333897,0 16.159936,-1.7995 23.230836,-4.89078 l 31.545166,12.71604 -11.2488,-27.877482 c 7.06753,-8.566307 11.2488,-15.274117 11.2488,-26.899317 0,-28.091885 -24.524346,-46.951534 -54.776785,-46.951534 z m 0,15.650512 c 21.608661,0 39.126282,14.01425 39.126282,31.301022 0,17.286773 -17.517621,31.301024 -39.126282,31.301024 -21.608661,0 -39.126279,-14.014251 -39.126279,-31.301024 0,-17.286772 17.517618,-31.301022 39.126279,-31.301022 z"
-     id="path4-4" />
+      .cls-2 {
+        fill: aqua;
+        filter: url(#outer-glow-10);
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.59px;
+      }
+    </style>
+    <filter id="outer-glow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="11.93"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="11.01"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-10" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="7.96"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="m15.67,23.37l99.35,17.44-7.6,54.84-9.19-2.82-4.28-1.31-3.36,2.97-3.94,3.48-.2-3.33-.34-5.53-5.3-1.63-49.4-15.16L15.67,23.37M4,13.2l21.06,65.55,53.39,16.38,1.21,19.67,16.22-14.33,18.17,5.58,9.95-71.79L4,13.2h0Z"/>
+  <path class="cls-2" d="m242.86,208.13c-8.19-.94-17.9.24-19.61,1.95l-9.11-9.9,22.54-34.68c2.29.77,4.83,2.44,7.93,4.89l1.35-3.16-13.8-9.85c-13.78-10.9-16.67-6.47-34.65,24.71l-21.21-23.06s-5.04,13.84-20.69,6.38c4.97,8.66,12.02,19.07,25.93,10.34l11.9,13.22c-21.04,34.31-25.57,41.06-40.25,30.84l-1.68,2.28,14.13,10.72c14.61,10.17,19.15,3.54,39.94-30.35l2.65,2.95-21.53,33.07,1.61,1.41,21.36-32.88,16.72,18.57s9.54-8.8,25.39-4.03c15.85,4.77,19.28,13.37,15.65,19.61-3.63,6.25-16.59,6.25-25.52,0l3.02,7.12s19.92,6.54,26.06-8.13c5.17-12.36-10.49-30.01-28.14-32.04Zm-33.09-12.71c12.78-22.17,17.98-30.96,24.77-30.39l-21.85,33.56-2.92-3.17Z"/>
 </svg>

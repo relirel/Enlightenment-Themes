@@ -1,74 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="weather-snow.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895777"
-     inkscape:cy="51.036686"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="matrix(8.0685297,0,0,8.0685297,-0.69301377,-0.23918983)"
-     style="fill:#3399ff"
-     id="g4-7">
-    <path
-       inkscape:connector-curvature="0"
-       d="M 7,1 C 5.1231,1 3.5563,2.2876 3.125,4.0312 1.924,4.2138 1,5.2481 1,6.5 1,7.8807 2.1193,9 3.5,9 H 4.8438 L 7.1875,5.4688 C 7.3258,5.247 7.5569,5.0853 7.8125,5.0312 8.4616,4.9043 9.1159,5.6131 8.9375,6.25 L 8.25,9 H 12.5 C 13.881,9 15,7.8807 15,6.5 15,5.2919 14.139,4.2956 13,4.0625 13.001,4.0415 13,4.0211 13,4 13,2.8954 12.105,2 11,2 10.62,2 10.271,2.1286 9.9688,2.3125 9.2368,1.5026 8.1776,1 7,1 z"
-       id="path6"
-       style="fill:#3399ff" />
-    <path
-       inkscape:connector-curvature="0"
-       d="M 6,16 7,12 H 4 L 8,6 7,10 h 3 l -4,6 z"
-       id="path8-7"
-       style="fill:#3399ff" />
-  </g>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <g
-     transform="matrix(6.8283434,0,0,6.8283434,10.39521,7.888222)"
-     style="fill:#3399ff"
-     id="g4-5" />
+      .cls-2 {
+        fill: aqua;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m120.58,58.91l-7.76-1.68c4.31-1.03,6.62-3.62,5.65-7.15-1.55-5.66-10.82-11.41-20.3-13.2-.8-7.21-12.09-13.97-24.35-15.82-11.32-1.71-21.52,1.1-23.77,6.73-6.85-1.45-13.94.33-16.94,3.93-7.6-.95-12.69-1.04-13.6-.34-9.12-1.76-15.32-1.95-16.58-.95-1.25,1,2.15,3.35,9.93,6.09-1.42.82,2.96,3.78,11.8,7.62-1.06.93-1.6,2.08-1.49,3.43.32,4.01,7.25,8.12,15.19,9.94-2.06,3.35,4.53,7.02,13.7,8.95,8.68,1.83,20.31,2.25,28.2.65,6.58,1.62,18.94,1.96,29.32.67,13.79-1.72,21.15-5.86,11-8.87Z"/>
+  <path class="cls-2" d="m80.16,35.73l-29.98,40.6-3.36-7.86,29.8-.39,16.16-.21c-7.43,6.49-56.58,49.53-65.17,57.05,0,0,44.44-54.98,44.44-54.98,0,0,4.18,10.27,4.18,10.27-7.78-.61-33.29-2.59-40.64-3.16,4.47-4.12,39.23-36.38,44.58-41.32h0Z"/>
 </svg>

@@ -1,91 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#outer-glow-23);
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="system-lock-screen.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="39.429787"
-     inkscape:cy="64.518638"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="979"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2981"
-       empspacing="4"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="8px"
-       spacingy="8px"
-       dotted="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,120"
-       id="guide2999" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="120,128"
-       id="guide3001" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,8"
-       id="guide3003" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="8,128"
-       id="guide3005" />
-  </sodipodi:namedview>
-  <path
-     d="m 55.986319,15.980708 15.997812,0 c 8.862784,0 15.997805,7.137243 15.997805,16.00279 l 0,24.004163 12.248314,0 c 2.06798,0 3.74951,1.784314 3.74951,4.000696 l 0,56.009823 c 0,2.21637 -1.68153,4.00069 -3.74951,4.00069 l -72.490046,0 c -2.067993,0 -3.749487,-1.78432 -3.749487,-4.00069 l 0,-56.009823 c 0,-2.216382 1.681494,-4.000696 3.749487,-4.000696 l 12.24832,0 0,-24.004163 c 0,-8.865547 7.13502,-16.00279 15.997795,-16.00279 z m 0,11.752048 c -2.538244,0 -4.249411,1.711723 -4.249411,4.250742 l 0,24.004163 24.496638,0 0,-24.004163 c 0,-2.539019 -1.711205,-4.250742 -4.249415,-4.250742 z"
-     id="path3921"
-     style="fill:#3399ff;fill-opacity:1;stroke:none;display:inline"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssscsssssssscssssccsss" />
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.8px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1b0049;
+        stroke: aqua;
+      }
+
+      .cls-2 {
+        fill: aqua;
+        stroke: #1b0049;
+      }
+    </style>
+    <filter id="outer-glow-23" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="14"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <polygon class="cls-1" points="-93.37 -84.02 -29.34 -140.27 -114.88 -97.88 -114.88 -139.1 -142.83 -139.1 -142.83 -28.95 -114.88 -28.95 -114.88 -70.17 -29.34 -27.77 -93.37 -84.02"/>
+  <g>
+    <path class="cls-2" d="m31.2,56.11v-14.85c0-20.7,14.68-37.47,32.8-37.47,18.11,0,32.8,16.78,32.8,37.47v21.42s-13.3,0-13.3,0v-21.42c0-12.3-8.73-22.27-19.49-22.27-10.77,0-19.49,9.97-19.49,22.27v14.85"/>
+    <rect class="cls-3" x="24.71" y="56.11" width="78.59" height="68.11"/>
+  </g>
 </svg>

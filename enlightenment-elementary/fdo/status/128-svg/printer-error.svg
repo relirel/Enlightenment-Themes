@@ -1,65 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="network-wireless-signal-weak.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895307"
-     inkscape:cy="51.106043"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <path
-     style="fill:#3399ff"
-     inkscape:connector-curvature="0"
-     d="m 35.283335,13.462547 c -5.30269,0 -9.571643,4.268952 -9.571643,9.571643 v 28.714931 h -3.190549 c -5.30269,0 -9.571643,4.268953 -9.571643,9.571643 v 25.524382 c 0,5.302687 4.268953,9.571639 9.571643,9.571639 h 3.190549 v 9.571645 c 0,5.30269 4.268953,9.57164 9.571643,9.57164 h 41.87594 l -4.985231,-4.98523 c -2.003409,-1.9796 -2.436238,-5.35775 -0.996727,-7.77855 H 41.66475 c -1.767564,0 -3.190548,-1.42299 -3.190548,-3.190549 v -9.571642 h 32.703115 c -1.438299,-2.424816 -1.00566,-5.800415 0.997366,-7.778556 L 81.746326,72.6839 c 1.014913,-0.999279 2.374087,-1.642238 3.79037,-1.793088 0.06649,-0.001 0.132919,-0.001 0.19941,0 0.397606,-0.03765 0.798786,-0.03765 1.196455,0 1.484244,0.107144 2.923627,0.75482 3.988185,1.794683 l 4.983635,4.98236 1.199647,-1.193265 c -0.695539,-0.585147 -1.199647,-1.415965 -1.199647,-2.392911 0,-1.761182 1.429367,-3.190548 3.190549,-3.190548 1.03093,0 1.80949,0.636451 2.39291,1.395865 2.41442,-2.008322 6.35736,-1.82493 8.57492,0.398818 l 4.98363,4.981721 V 61.319168 c 0,-5.30269 -4.26895,-9.571643 -9.57164,-9.571643 H 102.2842 V 23.032594 c 0,-5.30269 -4.268951,-9.571643 -9.571642,-9.571643 -19.143287,7.21e-4 -38.291041,-3.82e-4 -57.429861,6.38e-4 z m 6.381096,12.76219 H 86.3321 c 1.767564,0 3.190548,1.422984 3.190548,3.190549 V 58.130217 H 38.473882 V 29.415286 c 0,-1.767565 1.422985,-3.190549 3.190549,-3.190549 z m 3.190547,6.381096 v 6.381096 H 83.340643 V 32.605833 H 44.856255 z m 0,12.762192 v 6.381096 h 25.524383 v -6.381096 z"
-     id="path4" />
-  <path
-     style="fill:#d40000"
-     inkscape:connector-curvature="0"
-     d="m 76.798743,86.877052 9.561434,-9.561434 9.561434,9.561434 9.561439,-9.561434 9.57164,9.558882 -9.55888,9.558877 9.55888,9.565263 -9.55888,9.55888 -9.565265,-9.55888 -9.558881,9.55888 L 76.8064,105.99864 86.371664,96.433377 76.8064,86.8745 z"
-     id="path6" />
+      .cls-2, .cls-3, .cls-4 {
+        fill: aqua;
+      }
+
+      .cls-3 {
+        filter: url(#outer-glow-9);
+        stroke-width: .7px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-width: 1.33px;
+      }
+    </style>
+    <filter id="outer-glow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="3.52"/>
+      <feFlood flood-color="aqua" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <path class="cls-2" d="m5.12,104.72v6.48c0,2.51,2.03,4.54,4.54,4.54h6.66v2.75c0,1.85,1.5,3.35,3.35,3.35h88.65c1.85,0,3.35-1.5,3.35-3.35v-2.75h6.66c2.51,0,4.54-2.03,4.54-4.54v-6.48H5.12Z"/>
+    <polygon class="cls-1" points="24.5 107.89 24.5 114.24 103.5 114.24 103.5 107.89 109.16 107.89 109.16 119.11 18.84 119.11 18.84 107.89 24.5 107.89"/>
+    <rect class="cls-2" x="21.94" y="24.12" width="84.26" height="47.39" rx="3.82" ry="3.82"/>
+    <polygon class="cls-1" points="94.88 60.87 32.21 60.87 32.21 6.16 80.48 6.16 94.88 19 94.88 60.87"/>
+    <polygon class="cls-2" points="80.48 6.16 80.48 19 94.88 19 80.48 6.16"/>
+    <rect class="cls-4" x="25.07" y="60.87" width="77.86" height="33.2"/>
+    <path class="cls-1" d="m25.07,60.8v33.27h77.86v-33.27c0-1.68,1.36-3.04,3.04-3.04h12.18c3.8,0,6.88,3.08,6.88,6.88v40.08H2.96v-40.08c0-3.8,3.08-6.88,6.88-6.88h12.18c1.68,0,3.04,1.36,3.04,3.04Z"/>
+    <polygon class="cls-1" points="63.07 63.54 28.31 64.78 28.97 64.15 27.73 74.34 27.64 64.07 27.63 63.44 28.29 63.45 63.07 63.54 63.07 63.54"/>
+    <path class="cls-1" d="m109.53,114.4c2.47-.72,4.96-1.03,7.48-1.34,2.89-.1,3.48-.63,4.54-3.2.15,3.1-1.47,4.63-4.54,4.54,0,0-7.48,0-7.48,0h0Z"/>
+    <path class="cls-1" d="m18.36,114.4s-7.48,0-7.48,0c-3.06.09-4.68-1.45-4.54-4.54,1.06,2.57,1.65,3.1,4.54,3.2,2.52.32,5.02.63,7.48,1.34h0Z"/>
+    <circle class="cls-2" cx="116.99" cy="96.33" r="2.26"/>
+  </g>
+  <path class="cls-3" d="m74.8,34.43c-3.62-.42-7.91.1-8.67.86l-4.03-4.38,9.96-15.33c1.01.34,2.14,1.08,3.51,2.16l.6-1.39-6.1-4.36c-6.09-4.82-7.37-2.86-15.32,10.93l-9.38-10.19s-2.23,6.12-9.15,2.82c2.2,3.83,5.32,8.43,11.46,4.57l5.26,5.84c-9.3,15.17-11.3,18.16-17.79,13.64l-.74,1.01,6.25,4.74c6.46,4.5,8.47,1.57,17.66-13.42l1.17,1.3-9.52,14.62.71.62,9.45-14.54,7.39,8.21s4.22-3.89,11.22-1.78c7.01,2.11,8.52,5.91,6.92,8.67-1.6,2.76-7.33,2.76-11.28,0l1.34,3.15s8.81,2.89,11.52-3.59c2.29-5.46-4.64-13.27-12.44-14.16Zm-14.63-5.62c5.65-9.8,7.95-13.69,10.95-13.44l-9.66,14.84-1.29-1.4Z"/>
 </svg>

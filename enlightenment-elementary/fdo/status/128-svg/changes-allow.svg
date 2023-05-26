@@ -1,64 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mail-unread.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895777"
-     inkscape:cy="51.036686"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <g
-     transform="matrix(6.8283434,0,0,6.8283434,10.39521,7.888222)"
-     style="fill:#3399ff"
-     id="g4-5" />
-  <path
-     style="fill:#3399ff"
-     inkscape:connector-curvature="0"
-     d="m 45.953325,10.617763 c -4.549809,0 -8.212652,3.662843 -8.212652,8.212652 V 35.255719 H 54.165977 V 27.043067 H 70.59128 V 51.681022 H 29.528022 c -4.549809,0 -8.212652,3.662843 -8.212652,8.212652 v 49.275916 c 0,4.54981 3.662843,8.21265 8.212652,8.21265 h 65.701213 c 4.549809,0 8.212655,-3.66284 8.212655,-8.21265 V 59.893674 c 0,-4.549809 -3.662846,-8.212652 -8.212655,-8.212652 H 87.016583 V 18.830415 c 0,-4.549809 -3.662842,-8.212652 -8.212651,-8.212652 H 45.953325 z"
-     id="path4-6" />
+      .cls-2 {
+        fill: aqua;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="m79.79,71.25v-35.63c0-10-7.08-18.14-15.79-18.14s-15.79,8.14-15.79,18.14v13.18h-12.53v-13.18c0-17.79,12.7-32.27,28.32-32.27s28.32,14.47,28.32,32.27v35.63h-12.53Z"/>
+    <path class="cls-1" d="m64,4c15.28,0,27.67,14.15,27.67,31.61v34.98h-11.22v-34.98c0-10.38-7.36-18.79-16.44-18.79s-16.44,8.41-16.44,18.79v12.53h-11.22v-12.53c0-17.46,12.39-31.61,27.67-31.61m0-1.3c-15.97,0-28.97,14.77-28.97,32.92v13.83h13.83v-13.83c0-9.64,6.79-17.49,15.14-17.49s15.14,7.84,15.14,17.49v36.28h13.83v-36.28c0-18.15-13-32.92-28.97-32.92h0Z"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="30.2" y="65.89" width="67.6" height="58.77"/>
+    <path class="cls-2" d="m97.15,66.54v57.46H30.85v-57.46h66.3m1.3-1.3H29.55v60.07h68.9v-60.07h0Z"/>
+  </g>
 </svg>

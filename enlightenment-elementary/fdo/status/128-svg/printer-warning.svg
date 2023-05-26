@@ -1,65 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b0049;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   id="svg3027"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="printer-printing.svg">
-  <defs
-     id="defs3029" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9140624"
-     inkscape:cx="90.895777"
-     inkscape:cy="51.036686"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg3027"
-     showgrid="false"
-     inkscape:window-width="1013"
-     inkscape:window-height="847"
-     inkscape:window-x="573"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata3032">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-924.36218)" />
-  <path
-     style="fill:#3399ff"
-     inkscape:connector-curvature="0"
-     d="m 35.08463,13.461076 c -5.316077,0 -9.595808,4.27973 -9.595808,9.595808 V 51.84431 h -3.198603 c -5.316078,0 -9.595808,4.279731 -9.595808,9.595808 v 25.588821 c 0,5.316079 4.27973,9.595815 9.595808,9.595815 h 3.198603 v 9.595796 c 0,5.31608 4.279731,9.59581 9.595808,9.59581 h 48.178636 v -12.7944 h -41.78015 c -1.772026,0 -3.198603,-1.42659 -3.198603,-3.198608 V 90.227548 H 83.264545 V 75.434006 c -0.15993,-0.382554 -0.198313,-0.758069 -0.198313,-1.199476 0,-0.441407 0.03774,-0.81686 0.199912,-1.199476 v -1.999127 c -0.03902,-2.877975 2.176908,-5.625767 4.997819,-6.197293 4.574642,-0.02367 9.338642,0 13.993887,0 3.23986,0.01983 6.17855,2.957748 6.19889,6.197613 V 96.02501 c 3.84473,-1.247458 6.59553,-4.721139 6.59553,-8.994473 V 61.441718 c 0,-5.316078 -4.27973,-9.595808 -9.59581,-9.595808 h -3.19861 V 23.058484 c 0,-5.316078 -4.27973,-9.595809 -9.595808,-9.595809 -19.189699,-3.96e-4 -38.383235,0.0051 -57.574853,0 z m 6.397207,12.794411 h 44.780441 c 1.772026,0 3.198603,1.426577 3.198603,3.198603 V 58.241516 H 38.283234 V 29.45409 c 0,-1.772026 1.426576,-3.198603 3.198603,-3.198603 z m 3.198602,6.397206 v 6.397206 H 83.263266 V 32.652693 H 44.681718 z m 0,12.794412 v 6.397205 h 25.588822 v -6.397205 z"
-     id="path4" />
-  <path
-     style="fill:#ff9000"
-     inkscape:connector-curvature="0"
-     d="M 89.460881,71.035927 V 96.624754 H 102.2553 V 71.035927 z m 0,31.986033 v 12.7944 H 102.2553 v -12.7944 z"
-     id="path6" />
+      .cls-2, .cls-3 {
+        fill: aqua;
+      }
+
+      .cls-3 {
+        stroke: #1b0049;
+        stroke-miterlimit: 10;
+        stroke-width: 1.33px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m5.12,104.72v6.48c0,2.51,2.03,4.54,4.54,4.54h6.66v2.75c0,1.85,1.5,3.35,3.35,3.35h88.65c1.85,0,3.35-1.5,3.35-3.35v-2.75h6.66c2.51,0,4.54-2.03,4.54-4.54v-6.48H5.12Z"/>
+  <polygon class="cls-1" points="24.5 107.89 24.5 114.24 103.5 114.24 103.5 107.89 109.16 107.89 109.16 119.11 18.84 119.11 18.84 107.89 24.5 107.89"/>
+  <rect class="cls-2" x="21.94" y="24.12" width="84.26" height="47.39" rx="3.82" ry="3.82"/>
+  <polygon class="cls-1" points="94.88 60.87 32.21 60.87 32.21 6.16 80.48 6.16 94.88 19 94.88 60.87"/>
+  <polygon class="cls-2" points="80.48 6.16 80.48 19 94.88 19 80.48 6.16"/>
+  <rect class="cls-3" x="25.07" y="60.87" width="77.86" height="33.2"/>
+  <path class="cls-1" d="m25.07,60.8v33.27h77.86v-33.27c0-1.68,1.36-3.04,3.04-3.04h12.18c3.8,0,6.88,3.08,6.88,6.88v40.08H2.96v-40.08c0-3.8,3.08-6.88,6.88-6.88h12.18c1.68,0,3.04,1.36,3.04,3.04Z"/>
+  <polygon class="cls-1" points="63.07 63.54 28.31 64.78 28.97 64.15 27.73 74.34 27.64 64.07 27.63 63.44 28.29 63.45 63.07 63.54 63.07 63.54"/>
+  <path class="cls-1" d="m109.53,114.4c2.47-.72,4.96-1.03,7.48-1.34,2.89-.1,3.48-.63,4.54-3.2.15,3.1-1.47,4.63-4.54,4.54,0,0-7.48,0-7.48,0h0Z"/>
+  <path class="cls-1" d="m18.36,114.4s-7.48,0-7.48,0c-3.06.09-4.68-1.45-4.54-4.54,1.06,2.57,1.65,3.1,4.54,3.2,2.52.32,5.02.63,7.48,1.34h0Z"/>
+  <circle class="cls-2" cx="116.99" cy="96.33" r="2.26"/>
 </svg>
